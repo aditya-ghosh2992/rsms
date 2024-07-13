@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name1": "Search engine",
-        "name2": "optimization",
+        "name1": "Web Development",
+        "name2": "with S.E.O",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -10,8 +10,8 @@
     },
     {
         "id": 2,
-        "name1": "Pay-per-click",
-        "name2": "advertising",
+        "name1": "Graphics",
+        "name2": "Desiging ",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -19,8 +19,8 @@
     },
     {
         "id": 3,
-        "name1": "Social Media",
-        "name2": "Marketing",
+        "name1": "Company Brand",
+        "name2": "Development",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name1": "Email",
+        "name1": "Digital",
         "name2": "Marketing",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
@@ -37,8 +37,8 @@
     },
     {
         "id": 5,
-        "name1": "Content",
-        "name2": "Creation",
+        "name1": "Business-to-Business",
+        "name2": "Solution",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -46,8 +46,8 @@
     },
     {
         "id": 6,
-        "name1": "Analytics and",
-        "name2": "Tracking",
+        "name1": "Data Analytics ",
+        "name2": "and Research",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
