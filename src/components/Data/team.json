@@ -2,22 +2,22 @@
     "team":
     [
         {
-            "title": "CEO and Founder",
-            "name": "John Smith",
+            "title": "Founder",
+            "name": "Rubi Mojunder",
             "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
             "profile": "/team/c1.png",
             "link": "/"
         },
         {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
-            "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
+            "title": "Designing Head",
+            "name": "Raja Mojunder",
+            "description": "With 7+ years of experience in project design and team leadership, With possess strong skills in design and color contrast.",
             "profile": "/team/c2.png",
             "link": "/"
         },
         {
-            "title": "Senior SEO Specialist",
-            "name": "Michael Brown",
+            "title": "Developer",
+            "name": "Aditya Ghosh",
             "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
             "profile": "/team/c3.png",
             "link": "/"
