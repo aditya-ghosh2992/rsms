@@ -18,37 +18,37 @@
         {
             "title": "Developer",
             "name": "Aditya Ghosh",
-            "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
+            "description": "Years of experience in web development and handeling the best team of developer even from IITs. Proficient in keyword research and SEO",
             "profile": "/team/c3.png",
-            "link": "/"
+            "link": "https://www.linkedin.com/in/adityaghosh2992/   "
         }
 
     ],
     "process":
     [
         {
-            "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Consultation and Client Onboarding",
+            "content": " Meet with the client to understand their business goals, project requirements, budget, and timeline. Develop a detailed proposal outlining services, deliverables, costs, and timelines. Finalize with a signed contract to formalize the agreement."
         },
         {
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Project Planning",
+            "content": "Introduce the project team to the client, review the project scope, set objectives, and agree on milestones and deadlines. Conduct market research and competitor analysis to develop a tailored strategy for design, development, and marketing."
         },
         {
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Design Phase",
+            "content": "Create mood boards and wireframes to visualize design concepts and website structure. Present initial designs to the client, gather feedback, and make necessary revisions to finalize the graphical elements."
         },
         {
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Development Phase",
+            "content": "Define technical requirements, select appropriate technologies, and gather necessary content. Code and implement the website, ensuring it is responsive, SEO-friendly, and meets accessibility standards. Conduct thorough testing and quality assurance."
         },
         {
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Digital Marketing Phase",
+            "content": "Develop a comprehensive digital marketing strategy, including SEO, PPC, social media, email marketing, and content marketing. Create and launch marketing campaigns, produce engaging content, and continuously monitor and optimize campaign performance."
         },
         {
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "Delivery and Post-Launch Support",
+            "content": "Deploy the website to the live server and ensure everything is functioning as expected. Provide training sessions for the client on managing the website and using digital marketing tools. Supply detailed documentation and user manuals. Offer technical support, regular updates, security patches, and performance monitoring to ensure the project's continued success."
         }
     ]
 }
